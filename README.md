@@ -11,8 +11,8 @@ I am a Data Analyst interested in transforming raw data into meaningful insights
 - **SQL** 
 - **Python**
 - **Microsoft Excel**
-- **Power BI:** Data visualization and dashboard development
-- **Analytical workflow:** Data cleaning, exploration, and interpretation
+- **Power BI:** 
+- **Analytical workflow:**
 
 ## Featured Project
 
