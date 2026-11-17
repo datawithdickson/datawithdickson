@@ -8,7 +8,7 @@ I am a Data Analyst interested in transforming raw data into meaningful insights
 
 ## Technical Skills
 
-- **SQL:** PostgreSQL
+- **SQL:** 
 - **Python**
 - **Microsoft Excel**
 - **Power BI:** Data visualization and dashboard development
