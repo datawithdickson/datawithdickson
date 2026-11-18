@@ -8,19 +8,25 @@ I am a Data Analyst interested in transforming raw data into meaningful insights
 
 ## Technical Skills
 
-- **SQL** 
+- **SQL**
 - **Python**
 - **Microsoft Excel**
-- **Power BI** 
+- **Power BI**
 - **Analytical workflow**
 
-## Featured Project
+## Featured Projects
 
-### Retail Sales & Customer Analytics
+### 1. Retail Sales & Customer Analytics
 
 An analytical project exploring retail sales performance and customer insights through data analysis and visualization.
 
-[View project repository](https://github.com/maketadickson/retail_sales_customer_analytics)
+[View project repository](https://github.com/datawithdickson/retail_sales_customer_analytics)
+
+### 2. Telecom Customer Churn & Revenue Retention Analysis
+
+An end-to-end analysis of customer churn, retention and recurring revenue using Python and Power BI. The project includes data cleaning, exploratory analysis, eleven business investigations and an interactive dashboard.
+
+[View project repository](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention)
 
 ## Connect With Me
 
