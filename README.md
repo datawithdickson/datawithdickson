@@ -2,8 +2,6 @@
 
 **Data Analyst | SQL • Python • Excel • Power BI**
 
-Based in Mbeya, Tanzania.
-
 I am a Data Analyst interested in transforming raw data into meaningful insights that support informed business decisions. I use SQL, Python, Excel, and Power BI to explore data, identify patterns, and communicate findings clearly.
 
 ## Technical Skills
