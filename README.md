@@ -34,4 +34,4 @@ An end-to-end analysis of customer churn, retention and recurring revenue using 
 
 ## Opportunities
 
-Open to Data Analyst employment opportunities and freelance projects.
+ open to data analyst roles and freelance projects.
